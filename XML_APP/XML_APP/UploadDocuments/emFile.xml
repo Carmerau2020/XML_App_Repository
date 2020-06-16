@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<Employees>
+	<Employee>
+		<EmployeeID>Anton</EmployeeID>
+		<CompanyName>Antonio Moreno</CompanyName>
+		<ContactName>Antonio</ContactName>
+		<ContactTitle>Owner</ContactTitle>
+		<EmployeeAddress>Avda. de la Construction 22</EmployeeAddress>
+		<PostalCode>05021</PostalCode>
+	</Employee>
+	<Employee>
+		<EmployeeID>KSJW</EmployeeID>
+		<CompanyName>Krzysztof Kwiadkowski</CompanyName>
+		<ContactName>Krzys</ContactName>
+		<ContactTitle>Florysta</ContactTitle>
+		<EmployeeAddress>Woronicz 16 Warszawa</EmployeeAddress>
+		<PostalCode>01-100</PostalCode>
+	</Employee>
+	<Employee>
+		<EmployeeID>ABC</EmployeeID>
+		<CompanyName>Adam Koalski</CompanyName>
+		<ContactName>Adam</ContactName>
+		<ContactTitle>Mechanik</ContactTitle>
+		<EmployeeAddress>Tuwima 67 Szczecin</EmployeeAddress>
+		<PostalCode>49-536</PostalCode>
+	</Employee>
+	<Employee>
+		<EmployeeID>DEF</EmployeeID>
+		<CompanyName>Dorota Skowronek</CompanyName>
+		<ContactName>Doda</ContactName>
+		<ContactTitle>Ornitolog</ContactTitle>
+		<EmployeeAddress>Bociania 23/40 Bielsko-Biala</EmployeeAddress>
+		<PostalCode>36-859</PostalCode>
+	</Employee>
+	<Employee>
+		<EmployeeID>GHI</EmployeeID>
+		<CompanyName>Grazyna Lato</CompanyName>
+		<ContactName>Grazyna</ContactName>
+		<ContactTitle>Kosmetyczka</ContactTitle>
+		<EmployeeAddress>Frywolna 34/9 Krakow</EmployeeAddress>
+		<PostalCode>46-152</PostalCode>
+	</Employee>
+</Employees>
